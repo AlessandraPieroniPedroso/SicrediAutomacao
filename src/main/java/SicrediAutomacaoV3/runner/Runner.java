@@ -1,4 +1,4 @@
-package SicrediAutomacaoV3;
+package SicrediAutomacaoV3.runner;
 
 
 import io.cucumber.junit.Cucumber;

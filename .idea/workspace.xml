@@ -5,12 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d8c6d2c-16c5-4f8c-90bf-a727ef6849e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/steps/AlterarSimulacaoStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/steps/AlterarSimulacaoStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/steps/CadastrarSimulacaoStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/steps/CadastrarSimulacaoStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/steps/ConsultarRestricaoStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/steps/ConsultarRestricaoStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/steps/ConsultarSimulacaoStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/steps/ConsultarSimulacaoStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/steps/RemoverSimulacaoStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/steps/RemoverSimulacaoStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/utils/GeradorDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SicrediAutomacaoV3/utils/GeradorDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/alterarSimulacao.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/alterarSimulacao.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/cadastrarSimulacao.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/cadastrarSimulacao.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/consultarRestricao.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/consultarRestricao.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/consultarSimulacao.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/consultarSimulacao.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/removerSimulacao.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/removerSimulacao.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,11 +46,39 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Alessandra Pieroni/Documents/Alessandra/SicrediAutomacao_V3/br.com.sicredi/src/main/java/SicrediAutomacaoV3/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="br.com.sicredi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SicrediAutomacaoV3.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SicrediAutomacaoV3.runner" />
+      <option name="MAIN_CLASS_NAME" value="SicrediAutomacaoV3.runner.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,12 +87,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682465827647</updated>
-      <workItem from="1682465828679" duration="2000" />
+      <workItem from="1682465828679" duration="2912000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
